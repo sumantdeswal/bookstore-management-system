@@ -1,4 +1,4 @@
-# 📚 Bookstore Management System
+# 📚 Book Management System
 
 A Java Swing application connected to MySQL using JDBC.
 
